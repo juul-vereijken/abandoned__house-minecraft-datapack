@@ -35,3 +35,5 @@ Ideally configurable (duration, radius, affected block types, etc.)
 
 I’m looking for someone who could code this properly as a datapack (not a mod), or at least help set up a clean and efficient system.
 I already have a simple working prototype, but I’d love to make it more optimized, modular, and realistic.
+
+curenly i am laying the ground work for minecraft 1.21.8
