@@ -1,1 +1,0 @@
-say Datapack Maison Abandonnée activé !
